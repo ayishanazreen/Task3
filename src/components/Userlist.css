@@ -1,0 +1,15 @@
+.api-container{
+    display: flex;
+    padding: 10px;
+}
+.main{
+    width:500px;
+    height:auto;
+}
+.api-container li{
+    flex:1;
+}
+.api-btn{
+    cursor: pointer;
+    border: none;
+}

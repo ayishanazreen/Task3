@@ -1,0 +1,12 @@
+#root {
+  max-width: 200px;
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: left;
+}
+
+
+button{
+  display: inline-block;
+border: sienna solid
+}
